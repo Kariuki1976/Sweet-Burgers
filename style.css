@@ -2,8 +2,10 @@ body{
     margin: 0;
     font-style: poppins;
 }
-.gradient{
-    background: linear-gradient(120deg, white 45%,#FBC02B 55% );
+.section-1{
+    background: linear-gradient(120deg, white 45%,rgb(246, 180, 0) 55% );
+    width: 2000px;
+    border: 1px solid red;
 }
 .logo{
     display: flex;
@@ -68,4 +70,39 @@ margin-top: -300px;
      display: inline-block;
      font-size: 16px;
      
+ }
+ .section-2{
+     height: 800px;
+     background-color: rgb(247, 253, 246);
+     border: 1px solid red;
+ }
+ .quality{
+     border: 1px solid red;
+    height: 450px;
+    width: 350px;
+ }
+ .fast{
+border: 1px solid green;
+height: 600px;
+width: 350px;
+ }
+ .delicious{
+border: 1px solid blue;
+height: 450px;
+width: 350px;
+ }
+ .section-3{
+     border: 1px solid red;
+     height: 1500px;
+     background-color: white;
+ }
+ .section-4{
+     border: 1px solid red;
+     height: 800px;
+     background-color: rgb(247, 253, 246);
+ }
+ .section-5{
+     border: 1px solid red;
+     height: 850px;
+     background-color: rgb(246, 180, 0);
  }
