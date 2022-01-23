@@ -11,34 +11,25 @@ body{
     padding-top: 20px;
     margin-left: -12px; 
 }
-#ger{
+#matata{
     color: #FBC02B;
 }
-
-nav .Name{
-    padding: 20px;
-    margin: 0;
-    float: left;
-}
-
-nav ul{
-    margin: 0;
-    padding: 0;
+.nav-bar ul{
     list-style: none;
-    border: 3px solid green;
+    margin-right: 100px;
 }
-nav li{
-  display: inline-block; 
-  margin-left: 200px;
-  padding-top: 10px;
-  border: 2px dotted red;
-
-}
-nav a{
-    color: black;
-    text-decoration: none;
-
-} 
-nav a:hover{
-    color: maroon;
-}
+ .nav-bar ul li a{
+     text-decoration: none;
+     color: black;
+     font-size: 22px;
+    font-weight: 500;
+ }
+ .nav-bar ul li{
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: 50px;
+ }
+ .nav-bar{
+     display:flex;
+     justify-content: space-between;
+ }
