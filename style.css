@@ -2,6 +2,9 @@ body{
     margin: 0;
     font-style: poppins;
 }
+.gradient{
+    background: linear-gradient(120deg, white 45%,#FBC02B 55% );
+}
 .logo{
     display: flex;
     padding-left: 20px;
@@ -34,23 +37,35 @@ body{
      display:flex;
      justify-content: space-between;
  }
- .slim{
+ .img{
 height: 400px;
 width: 250px;
 margin-left: 1200px;
 outline: 1px solid red;
 margin-top: -300px;
  }
- .head{
+ .rain{
      margin-top: 100px;
      font-size: 35px;
      padding-left: 50px;
  }
  
- .petite{
+ .dine{
      font-size: 35px;
     padding-left: 50px;
  }
- .soft{
-     padding-left: 50px;
+ .deliver{
+     padding-left: 50px;;
+ }
+ .button{
+     margin-left: 100px;
+     background-color: orangered;
+     border: none;
+     color: white;
+     padding: 15px 15px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     
  }
