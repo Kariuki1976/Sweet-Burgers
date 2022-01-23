@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-style: poppins;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+header{
+background: white;
+}
+.logo{
+    float: left;
+}
+nav{
+    float: right;
+}
