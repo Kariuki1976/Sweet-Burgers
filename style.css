@@ -2,29 +2,37 @@ body{
     margin: 0;
     font-style: poppins;
 }
-.container{
-    width: 80%;
-    margin: auto;
+.logo{
+    display: flex;
 }
-header{
-background: green;
+.burger{
+    font-size: 22px;
+    font-weight: bolder;    
+    padding-top: 20px;
+    margin-left: -12px; 
+}
+#ger{
+    color: #FBC02B;
 }
 
-.logo{
+nav .Name{
+    padding: 20px;
+    margin: 0;
     float: left;
 }
-nav{
-    float: right;
-}
+
 nav ul{
     margin: 0;
     padding: 0;
     list-style: none;
+    border: 3px solid green;
 }
 nav li{
   display: inline-block; 
-  margin-left: 60px; 
-  padding-top: 25px;
+  margin-left: 200px;
+  padding-top: 10px;
+  border: 2px dotted red;
+
 }
 nav a{
     color: black;
