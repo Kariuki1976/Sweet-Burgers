@@ -100,13 +100,16 @@ margin-right: -200px;
      border: 1px solid red;
      height: 1500px;
      background-color: white;
- }
- .burger-card{
+}
+.burger-card{
      border: 1px solid green;
-     height: 500px;
+     height: 450px;
      width: 350px;
      padding: 1%;
- }
+}
+.burger-card>h4{
+    margin-top: 50px;
+}
  .burger-card-img{
      height: 200px;
      margin-left: 10%;
