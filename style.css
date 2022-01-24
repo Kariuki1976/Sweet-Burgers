@@ -102,6 +102,11 @@ margin-right: -200px;
      height: 1500px;
      background-color: white;
 }
+.menu{
+    margin-left: 800px;
+    margin-right: 800px;
+    
+}
 .burger-card{
      border: 1px solid green;
      height: 450px;
