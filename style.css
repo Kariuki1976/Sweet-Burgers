@@ -83,7 +83,7 @@ margin-top: -300px;
      border: 1px solid red;
     height: 450px;
     width: 350px;
-    margin-left: -200px;
+    
  }
  .fast{
 border: 1px solid green;
@@ -96,20 +96,43 @@ height: 450px;
 width: 350px;
 margin-right: -200px;
  }
- #room-1{
-     margin left: 50px;
- }
  .section-3{
      border: 1px solid red;
      height: 1500px;
      background-color: white;
  }
- .section-4{
+ .burger-card{
+     border: 1px solid green;
+     height: 500px;
+     width: 350px;
+     padding: 1%;
+ }
+ .burger-card-img{
+     height: 200px;
+     margin-left: 10%;
+}
+.burger-card>p{
+    text-align: center;
+}
+.burger-card>h2{
+    text-align: center;
+    color: rgb(107, 36, 49);
+    font-weight: 900;
+
+}
+.slim>img{
+    height: 40px;
+}
+.slim{
+    float: right;
+}
+
+.section-4{
      border: 1px solid red;
      height: 800px;
      background-color: rgb(247, 253, 246);
- }
- .section-5{
+}
+.section-5{
      border: 1px solid red;
      height: 850px;
      background-color: rgb(246, 180, 0);
