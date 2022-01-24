@@ -4,7 +4,6 @@ body{
 }
 .section-1{
     background: linear-gradient(120deg, white 45%,rgb(246, 180, 0) 55% );
-    width: 2000px;
     border: 1px solid red;
 }
 .logo{
@@ -75,11 +74,16 @@ margin-top: -300px;
      height: 800px;
      background-color: rgb(247, 253, 246);
      border: 1px solid red;
+     display: flex;
+     justify-content: space-around;
+     padding: 200px;
+
  }
  .quality{
      border: 1px solid red;
     height: 450px;
     width: 350px;
+    margin-left: -200px;
  }
  .fast{
 border: 1px solid green;
@@ -90,6 +94,10 @@ width: 350px;
 border: 1px solid blue;
 height: 450px;
 width: 350px;
+margin-right: -200px;
+ }
+ #room-1{
+     margin left: 50px;
  }
  .section-3{
      border: 1px solid red;
