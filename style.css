@@ -5,6 +5,7 @@ body{
 .section-1{
     background: linear-gradient(120deg, white 45%,rgb(246, 180, 0) 55% );
     border: 1px solid red;
+    height: 800px;
 }
 .logo{
     display: flex;
@@ -71,7 +72,7 @@ margin-top: -300px;
      
  }
  .section-2{
-     height: 800px;
+     height: 500px;
      background-color: rgb(247, 253, 246);
      border: 1px solid red;
      display: flex;
@@ -132,6 +133,8 @@ margin-right: -200px;
 .row{
     display: flex;
     justify-content: space-around;
+    border: none;
+    margin-top: 100px;
 }
 .section-4{
      border: 1px solid red;
