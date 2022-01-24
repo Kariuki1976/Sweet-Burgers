@@ -129,7 +129,10 @@ margin-right: -200px;
 .slim{
     float: right;
 }
-
+.row{
+    display: flex;
+    justify-content: space-around;
+}
 .section-4{
      border: 1px solid red;
      height: 800px;
