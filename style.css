@@ -4,7 +4,7 @@ body{
 }
 .section-1{
     background: linear-gradient(120deg, white 45%,rgb(246, 180, 0) 55% );
-    border: 1px solid red;
+    border: none;
     height: 800px;
 }
 .logo{
@@ -43,7 +43,7 @@ body{
 height: 400px;
 width: 250px;
 margin-left: 1200px;
-outline: 1px solid red;
+outline: none;
 margin-top: -300px;
 }
 .rain{
@@ -61,7 +61,7 @@ margin-top: -300px;
 }
 .button{
      margin-left: 100px;
-     background-color: orangered;
+     background-color: orange;
      border: none;
      color: white;
      padding: 15px 15px;
@@ -74,14 +74,14 @@ margin-top: -300px;
 .section-2{
      height: 500px;
      background-color: rgb(247, 253, 246);
-     border: 1px solid red;
+     border: none;
      display: flex;
      justify-content: space-around;
      padding: 200px;
 
 }
 .quality{
-     border: 1px solid grey;
+    border: 1px solid rgb(107, 36, 49);
     height: 400px;
     width: 350px;
     text-align: center;
@@ -89,14 +89,14 @@ margin-top: -300px;
     border-radius: 9%;
 }
 .fast{
-border: 1px solid grey;
+border: 1px solid rgb(107, 36, 49);
 height: 520px;
 width: 350px;
 text-align: center;
 border-radius: 9%;
 }
 .delicious{
-border: 1px solid grey;
+    border: 1px solid rgb(107, 36, 49);
 height: 400px;
 width: 350px;
 margin-right: -200px;
