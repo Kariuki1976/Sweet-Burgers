@@ -24,42 +24,42 @@ body{
     list-style: none;
     margin-right: 200px;
 }
- .nav-bar ul li a{
+.nav-bar ul li a{
      text-decoration: none;
      color: black;
      font-size: 22px;
     font-weight: 500;
- }
- .nav-bar ul li{
+}
+.nav-bar ul li{
     display: inline-flex;
     justify-content: space-between;
     margin-left: 150px;
- }
- .nav-bar{
+}
+.nav-bar{
      display:flex;
      justify-content: space-between;
- }
- .img{
+}
+.img{
 height: 400px;
 width: 250px;
 margin-left: 1200px;
 outline: 1px solid red;
 margin-top: -300px;
- }
- .rain{
+}
+.rain{
      margin-top: 100px;
      font-size: 35px;
      padding-left: 50px;
- }
+}
  
- .dine{
+.dine{
      font-size: 35px;
     padding-left: 50px;
- }
- .deliver{
+}
+.deliver{
      padding-left: 50px;;
- }
- .button{
+}
+.button{
      margin-left: 100px;
      background-color: orangered;
      border: none;
@@ -70,8 +70,8 @@ margin-top: -300px;
      display: inline-block;
      font-size: 16px;
      
- }
- .section-2{
+}
+.section-2{
      height: 500px;
      background-color: rgb(247, 253, 246);
      border: 1px solid red;
@@ -79,28 +79,30 @@ margin-top: -300px;
      justify-content: space-around;
      padding: 200px;
 
- }
- .quality{
-     border: 1px solid red;
-    height: 450px;
+}
+.quality{
+     border: 1px solid grey;
+    height: 400px;
     width: 350px;
-    
- }
- .fast{
-border: 1px solid green;
-height: 600px;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 9%;
+}
+.fast{
+border: 1px solid grey;
+height: 520px;
 width: 350px;
- }
- .delicious{
-border: 1px solid blue;
-height: 450px;
+text-align: center;
+border-radius: 9%;
+}
+.delicious{
+border: 1px solid grey;
+height: 400px;
 width: 350px;
 margin-right: -200px;
- }
- .section-3{
-     border: 1px solid red;
-     height: 1500px;
-     background-color: white;
+text-align: center;
+margin-top: 100px;
+border-radius: 9%;
 }
 #menus{
     color: #FBC02B;
